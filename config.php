@@ -12,6 +12,6 @@
     }
     else
     {
-        "Conexão efetuada com sucesso!!!"
+        "Conexão efetuada com sucesso!!!";
     }
 ?>
